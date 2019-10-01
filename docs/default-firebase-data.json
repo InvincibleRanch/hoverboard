@@ -164,7 +164,7 @@
             },
             {
               "items": [
-                114
+                121
               ]
             }
           ],
@@ -180,7 +180,7 @@
             },
             {
               "items": [
-                115,116
+                114
               ]
             }
           ],
@@ -212,7 +212,7 @@
             },
             {
               "items": [
-                118
+                119
               ]
             }
           ],
@@ -239,7 +239,7 @@
             },
             {
               "items": [
-                119
+                118
               ]
             }
           ],
@@ -250,12 +250,12 @@
           "sessions": [
             {
               "items": [
-                110
+                110,120
               ]
             },
             {
               "items": [
-                120
+                122
               ]
             }
           ],
@@ -271,7 +271,7 @@
             },
             {
               "items": [
-                121
+                123
               ]
             }
           ],
@@ -415,10 +415,10 @@
       ]
     },
     "110": {
-      "title": "Protocol Buffers: Is it worth the switch from JSON?",
-      "description": "Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. Google developed it to make distributed systems communicate better and faster.",
+      "title": "Google Maps API",
+      "description": "",
       "speakers": [
-        "f8f39079-cf62-4260-ba90-ca72f59f8e17"
+        "74f6baa1-82c8-45f3-ac81-95065791fd7e"
       ],
       "complexity": "Intermediate",
       "language": "English",
@@ -503,12 +503,55 @@
       ]
     },
     "120": {
-      "title": "To Be Announced",
-      "description": ""
+      "title": "Android App Bundles",
+      "description": "",
+      "speakers": [
+        "74f6baa1-82c8-45f3-ac81-95065791fd7f"
+      ],
+      "complexity": "Advanced",
+      "language": "English",
+      "tags": [
+        "App (Mobile and Web)"
+      ]
     },
     "121": {
-      "title": "To Be Announced",
-      "description": ""
+      "title": "Fairness and Explainability in ML",
+      "description": "",
+      "speakers": [
+        "74f6baa1-82c8-45f3-ac81-95065791fd7d"
+      ],
+      "complexity": "Intermediate",
+      "language": "English",
+      "tags": [
+        "Cloud and ML"
+      ]
+    },
+    "122": {
+      "title": "Security Goals in Kubernetes",
+      "description": "",
+      "speakers": [
+        "74f6baa1-82c8-45f3-ac81-95065791fd7l",
+        "74f6baa1-82c8-45f3-ac81-95065791fd7k"
+      ],
+      "complexity": "Intermediate",
+      "language": "English",
+      "tags": [
+        "Cloud and ML"
+      ]
+    },
+    "123": {
+      "title": "Certifications on Google Cloud Platform",
+      "description": "",
+      "speakers": [
+        "74f6baa1-82c8-45f3-ac81-95065791fd7g",
+        "74f6baa1-82c8-45f3-ac81-95065791fd7h",
+        "74f6baa1-82c8-45f3-ac81-95065791fd7i"
+      ],
+      "complexity": "Intermediate",
+      "language": "English",
+      "tags": [
+        "Cloud and ML"
+      ]
     }
   },
   "speakers": {
@@ -790,6 +833,165 @@
         }
       ],
       "order": 14
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7d": {
+      "bio": "Staff Developer Advocate at Google",
+      "title": "Staff Developer Advocate at Google",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7d",
+      "name": "Kaz Sato",
+      "photoUrl": "https://media.licdn.com/dms/image/C5103AQElSBCLel8aFg/profile-displayphoto-shrink_800_800/0?e=1574294400&v=beta&t=YXIuYpVGTS885dO-7IID1TQKD0yfP-RBnhjzHJf_QCM",
+      "featured": true,
+      "socials": [
+        {
+          "link": "https://twitter.com/kazunori_279",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/kazunori279/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 15
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7e": {
+      "bio": "Developer Advocate at Google",
+      "title": "Developer Advocate at Google",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7e",
+      "name": "Meghan Mehta",
+      "photoUrl": "https://images.sxsw.com/ebqEMN8troK3gxUJp8P6WQQ_iQU=/78x297:1043x1262/300x0/images.sxsw.com/48/36df55aa-f742-4e13-a936-46dd3a139476/pcid-946364",
+      "featured": true,
+      "socials": [
+        {
+          "link": "https://twitter.com/adressyengineer",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/meghankmehta",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 16
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7f": {
+      "bio": "Community Manager at Google",
+      "title": "Community Manager at Google",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7f",
+      "name": "Harsh Dattani",
+      "photoUrl": "https://datasciencefoundation.org/wp-content/uploads/2019/02/Harsh-Dattani.jpg",
+      "featured": true,
+      "socials": [
+        {
+          "link": "https://twitter.com/dattaniharsh",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://in.linkedin.com/in/harshdattani",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 17
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7g": {
+      "bio": "Sonali has 13+ years of experience in multiple BI and data engineering technologies and tools. She is a certified Professional Cloud Architect.",
+      "title": "Business Intelligence Lead, MediaAgility",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7g",
+      "name": "Sonali Nimkarde",
+      "photoUrl": "https://media.licdn.com/dms/image/C5103AQG-xf0SGAwF8w/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=Qf85SBe-T1l8uK75LN1_PUaNg61lXVUT20LWiaZmwbw",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/sonali-nimkarde-75275052/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 18
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7h": {
+      "bio": "Saurabh possesses extensive knowledge about multiple databases, ETL, and Google Cloud Platform. He is a Google Cloud certified Associate Cloud Engineer, Data Engineer, and Cloud Architect.",
+      "title": "Tech Lead, MediaAgility",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7h",
+      "name": "Saurabh Saraff",
+      "photoUrl": "https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/saurabh-saraff-gcp/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 19
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7i": {
+      "bio": "Harshad, with his expertise in Google Cloud DataFlow, BigQuery, and BigTable, has worked on MediaAgility's various data analytics projects. He is a certified Associate Cloud Engineer and Professional Data Engineer.",
+      "title": "Senior Software Engineer, MediaAgility",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7i",
+      "name": "Harshad Patel",
+      "photoUrl": "https://media.licdn.com/dms/image/C5103AQHLadAqNJTodw/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=aju9oTNIgIDIJLteOTU-o9vKSkdZmCegjDHuKzvPKuI",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/harshad-patel-5726b589/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 20
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7j": {
+      "bio": "Harini, in addition to creating content, leads MediaAgility's internal certification campaigns. She is Google Cloud certified in G Suite.",
+      "title": "Creative Content Writer, MediaAgility",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7j",
+      "name": "Harini JBL",
+      "photoUrl": "https://media.licdn.com/dms/image/C5103AQFaO_c2CzMG3g/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=nTlnCJbJ3ERwbc-qFAQeRznX8i7H-SdiWB2IXYfOrT4",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/harini-jbl-198152174/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 21
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7k": {
+      "bio": "As a Cloud Engineer at Searce, I help Design and Implement Cloud & Kubernetes technology solutions for our Enterprise clients globally.",
+      "title": "Cloud Professional Engineer.",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7k",
+      "name": "Mukesh Panigrahi",
+      "photoUrl": "https://media.licdn.com/dms/image/C4E03AQHCzonaldIZAw/profile-displayphoto-shrink_200_200/0?e=1574294400&v=beta&t=jRKVH7_SwIfqHtaDONA9wBp3VE-ESx3yYUF8csbJMvM",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/mukeshpanigrahi",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 22
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7l": {
+      "bio": "As a Solutions Architect and Apache Spark Developer at Searce, I love solving the problems related to scalability accompanied by the portability of the applications and eventually achieve the efficient running Businesses.",
+      "title": "Cloud Professional Engineer.",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7l",
+      "name": "Ankur Jaiswal",
+      "photoUrl": "https://static-exp1.licdn.com/sc/h/djzv59yelk5urv2ujlazfyvrk",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/Ankur-R-Jaiswal",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 22
     }
   },
   "team": [
